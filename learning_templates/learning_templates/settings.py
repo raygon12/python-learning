@@ -26,7 +26,7 @@ SECRET_KEY = 'm#228!k!8-!8vg5nxifx#7-vk-47-ab$c6243ybg0rzw616ge*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['raygon.pythonanywhere.com']
+ALLOWED_HOSTS = ['raygon.pythonanywhere.com',]
 
 
 # Application definition
